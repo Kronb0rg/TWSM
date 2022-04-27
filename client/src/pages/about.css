@@ -1,0 +1,26 @@
+.aboutdiv {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  letter-spacing: 2px;
+  height: 80vh;
+  margin-top: 5rem;
+}
+
+.aboutdiv p {
+  display: flex;
+  justify-content: center;
+  margin-right: 10rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.aboutdiv img {
+  margin-right: 5rem;
+  margin-left: 10rem;
+  height: 80%;
+  border-radius: 10rem;
+}
